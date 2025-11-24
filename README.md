@@ -27,7 +27,7 @@ Minha atuação combina **rigor estatístico**, **engenharia de dados** e **vis�
 <div align="left">
   <p><b>Linguagens & Bancos de Dados:</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,python,SQL,mysql,postgres,git,github,vscode,latex,markdown&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=r,python,sqlite,mysql,postgres,git,github,vscode,latex,markdown&theme=dark" alt="My Skills" />
   </a>
 </div>
 
