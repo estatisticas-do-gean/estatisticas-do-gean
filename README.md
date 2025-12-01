@@ -47,9 +47,9 @@ Minha atuação combina **rigor estatístico**, **engenharia de dados** e **vis�
 ## 🧠 Áreas de Interesse
 
 * 🔭 **Estatística Aplicada:** GLM, Séries Temporais, Inferência Bayesiana.
-* 🤖 **Machine Learning:** Data Mining, Classificação e Clustering.
+* 🤖 **Machine Learning:** Data Mining, Data processing, KDD.
 * ⚙️ **Engenharia de Dados:** Automação de pipelines e Data Wrangling.
-* 📐 **Otimização:** Pesquisa Operacional e Algoritmos Meta-heurísticos (MOPSO).
+* 📐 **Otimização:** Pesquisa Operacional e Algoritmos Meta-heurísticos.
 
 ---
 
