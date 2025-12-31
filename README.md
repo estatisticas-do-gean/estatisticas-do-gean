@@ -76,7 +76,7 @@ Atuo em Data Science e Analytics, conectando dados a decisões por meio de model
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[+BIKE (Em breve)]** | **Análise de Demanda:** Análise exploratória, engenharia de features e modelagem preditiva para sistema de bike-sharing. | `R` `Tidyverse` `Séries Temporais` |
+| **[Bike+](https://github.com/estatisticas-do-gean/bike-analytics)** | **Análise de Demanda:** Análise exploratória, engenharia de features e modelagem preditiva para sistema de bike-sharing. | `R` `Tidyverse` `Séries Temporais` |
 | **[Otimização MOPSO]** | **TCC / Pesquisa:** Implementação e validação de algoritmo multiobjetivo aplicado a filas Markovianas. | `Python` `Otimização` `Algoritmos` |
 | **[Gestão Serralheria]** | **Consultoria:** Sistema de gestão de estoque, orçamentos e precificação automatizada para pequenas indústrias. | `Excel` `VBA` `Gestão` |
 
