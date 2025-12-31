@@ -14,11 +14,13 @@ Sou um profissional com formação sólida em **Estatística** e experiência na
 Minha atuação combina **rigor estatístico**, **engenharia de dados** e **visão de negócio**, sempre priorizando a reprodutibilidade, clareza e o impacto real das decisões.
 
 ### 🎯 O que eu faço
-* **Data Science:** Extração, limpeza e modelagem de dados (R, Python, SQL).
-* **Analytics:** Análises estatísticas avançadas, inferência e machine learning.
-* **BI & Viz:** Construção de dashboards e indicadores de negócio (Shiny, Power BI).
-* **Engenharia:** Automação de processos analíticos e pipelines (ETL, ELT, EtLT).
-* **Reprodutibilidade:** Documentação técnica e relatórios automatizados (Quarto, LaTeX).
+Atuo em Data Science e Analytics, conectando dados a decisões por meio de modelagem estatística, BI, automação de pipelines e comunicação clara de insights, com foco em reprodutibilidade e impacto no negócio.
+
+- **Data Science:** extração, limpeza, transformação e modelagem de dados com R, Python e SQL.
+- **Analytics:** análises estatísticas avançadas, inferência, testes de hipóteses e machine learning aplicado a problemas de negócio.
+- **BI & Visualização de Dados:** construção de dashboards, indicadores e narrativas analíticas para apoio à tomada de decisão (Shiny, Power BI).
+- **Engenharia Analítica:** automação de processos e pipelines de dados (ETL, ELT, EtLT), garantindo padronização e confiabilidade.
+- **Reprodutibilidade e Comunicação:** documentação técnica, versionamento e geração de relatórios automatizados e auditáveis (Quarto, LaTeX).
 
 ---
 
@@ -44,13 +46,28 @@ Minha atuação combina **rigor estatístico**, **engenharia de dados** e **vis�
 
 ---
 
-## 🧠 Áreas de Interesse
+## 🧠 Áreas de Interesse e Atuação
 
-* 🔭 **Estatística Aplicada:** GLM, Séries Temporais, Inferência Bayesiana.
-* 🤖 **Machine Learning:** Data Mining, Data processing, KDD.
-* ⚙️ **Engenharia de Dados:** Automação de pipelines e Data Wrangling.
-* 📐 **Otimização:** Pesquisa Operacional e Algoritmos Meta-heurísticos.
-
+- 📊 **Estatística Aplicada e Inferência:**
+    
+    Modelos Lineares Generalizados (GLM), inferência frequentista e bayesiana, análise exploratória avançada, estimação, testes de hipóteses e séries temporais aplicadas à previsão e monitoramento de indicadores.
+    
+- 💰 **Finanças Quantitativas e Analytics (alto interesse):**
+    
+    Análise de risco e crédito, modelagem de inadimplência, previsão de fluxo de caixa, controle orçamentário, indicadores financeiros, valuation orientado a dados, detecção de anomalias e fraudes, apoio quantitativo à tomada de decisão financeira.
+    
+- 🤖 **Machine Learning e Data Mining:**
+    
+    Classificação, regressão e clustering, tratamento de bases desbalanceadas, engenharia de atributos, avaliação de modelos, processos KDD e aplicações práticas em problemas de negócio.
+    
+- ⚙️ **Engenharia de Dados Analítica:**
+    
+    Data wrangling, automação de pipelines analíticos, integração de múltiplas fontes, organização e padronização de dados para BI, analytics e modelos preditivos.
+    
+- 📐 **Otimização e Pesquisa Operacional:**
+    
+    Modelagem matemática, otimização multiobjetivo, algoritmos meta-heurísticos e suporte quantitativo à alocação eficiente de recursos e decisões estratégicas.
+  
 ---
 
 ## 🏆 Projetos em Destaque
@@ -60,7 +77,7 @@ Minha atuação combina **rigor estatístico**, **engenharia de dados** e **vis�
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
 | **[+BIKE (Em breve)]** | **Análise de Demanda:** Análise exploratória, engenharia de features e modelagem preditiva para sistema de bike-sharing. | `R` `Tidyverse` `Séries Temporais` |
-| **[Otimização MOPSO]** | **TCC / Pesquisa:** Implementação e validação de algoritmo multiobjetivo aplicado a filas Markovianas. | `R` `Otimização` `Algoritmos` |
+| **[Otimização MOPSO]** | **TCC / Pesquisa:** Implementação e validação de algoritmo multiobjetivo aplicado a filas Markovianas. | `Python` `Otimização` `Algoritmos` |
 | **[Gestão Serralheria]** | **Consultoria:** Sistema de gestão de estoque, orçamentos e precificação automatizada para pequenas indústrias. | `Excel` `VBA` `Gestão` |
 
 ---
