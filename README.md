@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Gean Gabriel
 
-### Estatístico & Analista | Cientista de Dados
-**Modelagem, BI e Soluções Analíticas Reprodutíveis**
+## Estatístico aficionado por estatíticas e dados!
+
 
 [![Profile Views](https://img.shields.io/badge/Profile%20Views-Visitantes-blue?style=flat&logo=github)](https://github.com/seu-usuario)
 
