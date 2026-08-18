@@ -8,15 +8,15 @@ Sou [Bacharel em Estatística](), me divirto traduzindo problemas difusos de neg
 
 ## Atuação e Interesses
 
-*   **Estatística Aplicada e Inferência:** Modelos Lineares Generalizados (GLM), inferência frequentista e bayesiana, análise exploratória avançada, estimação, testes de hipóteses e séries temporais aplicadas à previsão e monitoramento de indicadores.
+*   **Estatística Aplicada e Inferência:** Modelos Lineares Generalizados (GLM), Inferência (frequentista e bayesiana), análise exploratória avançada, estimação, testes de hipóteses e séries temporais aplicadas à previsão e monitoramento de indicadores.
     
-*   **Finanças Quantitativas e Analytics (alto interesse):** Análise de risco e crédito, modelagem de inadimplência, previsão de fluxo de caixa, controle orçamentário, indicadores financeiros, *valuation* orientado a dados, detecção de anomalias e fraudes, apoio quantitativo à tomada de decisão financeira.
+*   **Finanças e Riscos:** Análise de risco e crédito, modelagem de inadimplência, previsão de fluxo de caixa, controle orçamentário, indicadores financeiros, *valuation* orientado a dados, detecção de anomalias e fraudes, apoio quantitativo à tomada de decisão financeira.
     
 *   **Machine Learning e Data Mining:** Classificação, regressão e *clustering* (agrupamentos), tratamento de bases desbalanceadas, engenharia de *features*, avaliação de modelos, processos *KDD* e aplicações práticas em problemas de negócio.
+
+*   **Otimização e Pesquisa Operacional:** Modelagem matemática, otimização multiobjetivo, algoritmos meta-heurísticos e suporte quantitativo à alocação eficiente de recursos e decisões estratégicas.
     
 *   **Engenharia de Dados Analítica:** Segurança, *data wrangling*, estruturação de *pipelines* analíticos, integração de múltiplas fontes, organização e padronização de dados para *BI*, *analytics* e modelos preditivos.
-    
-*   **Otimização e Pesquisa Operacional:** Modelagem matemática, otimização multiobjetivo, algoritmos meta-heurísticos e suporte quantitativo à alocação eficiente de recursos e decisões estratégicas.
   
 ---
 
