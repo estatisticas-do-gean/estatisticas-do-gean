@@ -1,92 +1,76 @@
-# 👋 Olá, eu sou Gean Gabriel
+# Gean Gabriel
 
-## Estatístico aficionado por estatíticas e dados!
+**Estatístico | Analise & Ciência de Dados**
 
+O valor de uma decisão não está nas ferramentas utilizadas no processo que precede a tomada, mas na capacidade de compreender o mecanismo subjacente do problema em questão antes de se propor uma solução empírica. 
 
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-Visitantes-blue?style=flat&logo=github)](https://github.com/seu-usuario)
+Sou [Bacharel em Estatística](), me divirto traduzindo problemas difusos de negócio e de pesquisa em estruturas lógicas testáveis. Trabalho conectando a teoria estatística rigorosa à engenharia de sistemas analíticos, garantindo que as decisões sejam tomadas com base na arquitetura do problema, e não em fatos isolados.
 
----
+## Atuação e Interesses
 
-## 🚀 Sobre Mim
-
-Sou um profissional com formação sólida em **Estatística** e experiência na construção de soluções analíticas ponta a ponta — da modelagem dos dados à entrega de insights acionáveis.
-
-Minha atuação combina **rigor estatístico**, **engenharia de dados** e **visão de negócio**, sempre priorizando a reprodutibilidade, clareza e o impacto real das decisões.
-
-### 🎯 O que eu faço
-Atuo em Data Science e Analytics, conectando dados a decisões por meio de modelagem estatística, BI, automação de pipelines e comunicação clara de insights, com foco em reprodutibilidade e impacto no negócio.
-
-- **Data Science:** extração, limpeza, transformação e modelagem de dados com R, Python e SQL.
-- **Analytics:** análises estatísticas avançadas, inferência, testes de hipóteses e machine learning aplicado a problemas de negócio.
-- **BI & Visualização de Dados:** construção de dashboards, indicadores e narrativas analíticas para apoio à tomada de decisão (Shiny, Power BI).
-- **Engenharia Analítica:** automação de processos e pipelines de dados (ETL, ELT, EtLT), garantindo padronização e confiabilidade.
-- **Reprodutibilidade e Comunicação:** documentação técnica, versionamento e geração de relatórios automatizados e auditáveis (Quarto, LaTeX).
-
----
-
-## 🛠 Tech Stack
-
-<div align="left">
-  <p><b>Linguagens & Bancos de Dados:</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,python,sqlite,mysql,postgres,git,github,vscode,latex,markdown&theme=dark" alt="My Skills" />
-  </a>
-</div>
-
-<br>
-
-**Ferramentas & Ambientes:**
-
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Quarto](https://img.shields.io/badge/Quarto-447099?style=for-the-badge&logo=quarto&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
----
-
-## 🧠 Áreas de Interesse e Atuação
-
-- 📊 **Estatística Aplicada e Inferência:**
+*   **Estatística Aplicada e Inferência:** Modelos Lineares Generalizados (GLM), inferência frequentista e bayesiana, análise exploratória avançada, estimação, testes de hipóteses e séries temporais aplicadas à previsão e monitoramento de indicadores.
     
-    Modelos Lineares Generalizados (GLM), inferência frequentista e bayesiana, análise exploratória avançada, estimação, testes de hipóteses e séries temporais aplicadas à previsão e monitoramento de indicadores.
+*   **Finanças Quantitativas e Analytics (alto interesse):** Análise de risco e crédito, modelagem de inadimplência, previsão de fluxo de caixa, controle orçamentário, indicadores financeiros, *valuation* orientado a dados, detecção de anomalias e fraudes, apoio quantitativo à tomada de decisão financeira.
     
-- 💰 **Finanças Quantitativas e Analytics (alto interesse):**
+*   **Machine Learning e Data Mining:** Classificação, regressão e *clustering* (agrupamentos), tratamento de bases desbalanceadas, engenharia de *features*, avaliação de modelos, processos *KDD* e aplicações práticas em problemas de negócio.
     
-    Análise de risco e crédito, modelagem de inadimplência, previsão de fluxo de caixa, controle orçamentário, indicadores financeiros, valuation orientado a dados, detecção de anomalias e fraudes, apoio quantitativo à tomada de decisão financeira.
+*   **Engenharia de Dados Analítica:** Segurança, *data wrangling*, estruturação de *pipelines* analíticos, integração de múltiplas fontes, organização e padronização de dados para *BI*, *analytics* e modelos preditivos.
     
-- 🤖 **Machine Learning e Data Mining:**
-    
-    Classificação, regressão e clustering, tratamento de bases desbalanceadas, engenharia de atributos, avaliação de modelos, processos KDD e aplicações práticas em problemas de negócio.
-    
-- ⚙️ **Engenharia de Dados Analítica:**
-    
-    Data wrangling, automação de pipelines analíticos, integração de múltiplas fontes, organização e padronização de dados para BI, analytics e modelos preditivos.
-    
-- 📐 **Otimização e Pesquisa Operacional:**
-    
-    Modelagem matemática, otimização multiobjetivo, algoritmos meta-heurísticos e suporte quantitativo à alocação eficiente de recursos e decisões estratégicas.
+*   **Otimização e Pesquisa Operacional:** Modelagem matemática, otimização multiobjetivo, algoritmos meta-heurísticos e suporte quantitativo à alocação eficiente de recursos e decisões estratégicas.
   
 ---
 
-## 🏆 Projetos em Destaque
+## Projetos em Destaque
 
-> *🚧 Nota: Os repositórios estão sendo publicados gradualmente conforme a documentação é finalizada.*
+Os repositórios abaixo não são apenas scripts isolados, mas soluções arquitetadas para resolver problemas de negócio e de pesquisa de forma sistêmica.
 
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| **[Bike+](https://github.com/estatisticas-do-gean/bike-analytics)** | **Análise de Demanda:** Análise exploratória, engenharia de features e modelagem preditiva para sistema de bike-sharing. | `R` `Tidyverse` `Séries Temporais` |
-| **[Otimização MOPSO]** | **TCC / Pesquisa:** Implementação e validação de algoritmo multiobjetivo aplicado a filas Markovianas. | `Python` `Otimização` `Algoritmos` |
-| **[Gestão Serralheria]** | **Consultoria:** Sistema de gestão de estoque, orçamentos e precificação automatizada para pequenas indústrias. | `Excel` `VBA` `Gestão` |
+> *🚧 Nota: Os repositórios estão sendo publicados gradualmente conforme a documentação técnica e o encapsulamento do código são finalizados.*
+
+#### [Bike+: Modelagem de Demanda e Alocação]()
+**Problema:** Desbalanceamento na disponibilidade de bicicletas em sistemas de *bike-sharing*.
+
+**Mecanismo:** Análise exploratória profunda e engenharia de features culminando em um modelo preditivo de Séries Temporais para antecipar a demanda e otimizar a distribuição logística da frota.
+
+`R` `Tidyverse` `Séries Temporais` `Machine Learning`
+
+#### [Gestão Integrada para Pequenas Indústrias (Serralheria)]()
+**Problema:** Precificação imprecisa e falta de controle de margem em operações industriais de pequeno porte.
+
+**Mecanismo:** Projeto de consultoria focado no desenvolvimento de um sistema relacional de gestão de estoque, automação de orçamentos e precificação dinâmica baseada em custos e insumos.
+
+`SQL` `Python` `Modelagem de Negócios`
+
+#### [Otimização MOPSO em Redes de Filas Markovianas]()
+**Problema:** Alocação ineficiente de servidores e dimensionamento de buffers em sistemas estocásticos.
+
+**Mecanismo:** Pesquisa e implementação de um algoritmo de otimização multiobjetivo (MOPSO) aplicado à teoria das filas, balanceando custos operacionais e tempo de espera sob incerteza.
+
+`R` `Pesquisa Operacional` `Algoritmos Heurísticos`
 
 ---
 
+Ferramentas:
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r,python,sqlite,mysql,postgres,git,github&theme=dark" alt="Linguagens e DBs" />
+  </a>
+</div>
+<br>
+
+![Shiny](https://img.shields.io/badge/Shiny-004880?style=for-the-badge&logo=rstudio&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Quarto](https://img.shields.io/badge/Quarto-447099?style=for-the-badge&logo=quarto&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+*Para discussões sobre modelagem preditiva, finanças quantitativas ou propostas de consultoria, sinta-se à vontade para explorar os repositórios ou entrar em contato.*
 
 <div align="center">
 <small><i>‘‘Existem dois tipos de estatísticas: as que você lê e as que você faz.’’ — Rex Stout</i></small>
 <br><br>
-<a href="mailto:GEAN-ESTATISTICAS@GMAIL.COM">
+<a href="GEAN-ESTATISTICAS@GMAIL.COM">
 <img src="https://img.shields.io/badge/Entre_em_contato-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="www.linkedin.com/in/gean-gabriel-a-ribeiro">
