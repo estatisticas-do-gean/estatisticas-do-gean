@@ -1,10 +1,10 @@
 # Gean Gabriel
 
-**Estatístico | Analise & Ciência de Dados**
+**Estatístico | Análise & Ciência de Dados**
 
 O valor de uma decisão não está nas ferramentas utilizadas no processo que precede a tomada, mas na capacidade de compreender o mecanismo subjacente do problema em questão antes de se propor uma solução empírica. 
 
-Sou [Bacharel em Estatística](), me divirto traduzindo problemas difusos de negócio e de pesquisa em estruturas lógicas testáveis. Trabalho conectando a teoria estatística rigorosa à engenharia de sistemas analíticos, garantindo que as decisões sejam tomadas com base na arquitetura do problema, e não em fatos isolados.
+Sou [Bacharel em Estatística](http://www.monografias.ufop.br/handle/35400000/8452), me divirto traduzindo problemas difusos de negócio e de pesquisa em estruturas lógicas testáveis. Trabalho conectando a teoria estatística rigorosa à engenharia de sistemas analíticos, garantindo que as decisões sejam tomadas com base na arquitetura do problema, e não em fatos isolados.
 
 ## Atuação e Interesses
 
@@ -26,7 +26,7 @@ Os repositórios abaixo não são apenas scripts isolados, mas soluções arquit
 
 > *🚧 Nota: Os repositórios estão sendo publicados gradualmente conforme a documentação técnica e o encapsulamento do código são finalizados.*
 
-#### [Bike+: Modelagem de Demanda e Alocação]()
+#### [Bike+: Modelagem de Demanda e Alocação](https://github.com/estatisticas-do-gean/bike-analytics)
 **Problema:** Desbalanceamento na disponibilidade de bicicletas em sistemas de *bike-sharing*.
 
 **Mecanismo:** Análise exploratória profunda e engenharia de features culminando em um modelo preditivo de Séries Temporais para antecipar a demanda e otimizar a distribuição logística da frota.
