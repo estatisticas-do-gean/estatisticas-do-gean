@@ -2,7 +2,7 @@
 
 **Estatístico | Análise & Ciência de Dados**
 
-O valor de uma decisão não está nas ferramentas utilizadas no processo que precede a tomada, mas na capacidade de compreender o mecanismo subjacente do problema em questão antes de se propor uma solução empírica. 
+O valor de uma decisão não está nas ferramentas utilizadas no processo, mas na capacidade de compreender o mecanismo subjacente do problema em questão antes de se propor uma solução empírica. 
 
 Sou [Bacharel em Estatística](http://www.monografias.ufop.br/handle/35400000/8452), me divirto traduzindo problemas difusos de negócio e de pesquisa em estruturas lógicas testáveis. Trabalho conectando a teoria estatística rigorosa à engenharia de sistemas analíticos, garantindo que as decisões sejam tomadas com base na arquitetura do problema, e não em fatos isolados.
 
